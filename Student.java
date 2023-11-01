@@ -7,7 +7,4 @@ public class Student {
         System.out.println("from Student");
     }
 
-
-
-
 }
